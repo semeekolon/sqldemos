@@ -1,0 +1,2 @@
+SELECT TOP 1 * FROM [Employees]
+ORDER BY NEWID()
